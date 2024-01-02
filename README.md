@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m currently looking for **Junior Backend Engineering and Internship opportunities** to hone my software engineering skills.
 
-- 📫 You can reach me via **oyedey(at)gmail.com**
+- 📫 You can reach me via [oyedey\@gmail.com](mailto:oyedey@gmail.com?subject=GitHub contact:)
 
 - ⚡ Fun fact: ...doing hard things isn't really difficult if only you muster up courage to kickstart.
 
