@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 
 - 📫 You can reach me via [oyedey\@gmail.com](mailto:oyedey@gmail.com)
 
-- ⚡ Fun fact: ...doing hard things isn't really difficult if only you muster up courage to kickstart.
+- ⚡ Fun fact 1: ...the only way to justify privilege is by doing hard things...
+
+- ⚡ Fun fact 2: ...doing hard things isn't really difficult if only you muster up courage to kickstart...
+
 
 <!-- Social Media Links -->
 <h3 align="left">Connect with me:</h3>
