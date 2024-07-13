@@ -1,43 +1,80 @@
-<h1 align="center">Hi 👋, I'm Hezekiah</h1>
-<h3 align="center">A Python & JavaScript Backend Software Engineer</h3>
 
-<!-- **oyedeyeye/oyedeyeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Hezekiah 👋
 
-Here are some ideas to get you started:
+## Backend Software Engineer | Cloud Development | AI/ML Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+🌟 **Dynamic, result-oriented, and innovative** Software Engineering Professional with a passion for leveraging agile methodologies to spearhead the software development life-cycle from concept to completion. I deliver robust, scalable, and secure backend solutions, optimize system efficiency, and drive process improvements.
 
+## 🚀 About Me
 
-- 🔭 I’m a recent [ALX Backend SE Grad](https://www.alxafrica.com/)
+- **Project Management & DevOps**: Skilled in managing end-to-end project lifecycles and implementing DevOps practices to enhance productivity and collaboration.
+- **Microservices Architecture**: Expert in designing and developing microservices-based applications for seamless scalability and maintainability.
+- **AI & ML Application**: Proficient in integrating AI/ML models to drive data-driven decision-making and enhance user experiences.
+- **Team Collaboration**: Adept at working cross-functionally with stakeholders to deliver innovative solutions that meet business goals.
 
-- 👯 I’m looking to collaborate on **Python (Flask) and JavaScript (NodeJS) Projects**
+## 🛠️ Expertise
 
-- 💬 Ask me about **Python, JavaScript, SQL (MySQL, PostgreSQL), Linux, Web Servers (Nginx), Redis, NoSQL (Mongodb), Azure (Table, BlobStorage), AWS (S3, Route53, CloudFront)**
+- **Backend Development**: Python, Flask, NodeJS
+- **Cloud Development**: Azure, AWS, Heroku, Firebase, GCP
+- **Database Management**: SQL, NoSQL, MySQL, MongoDB, PostgreSQL, Redis, Firestore
+- **DevOps & Tools**: Docker, Git, GitHub, NginX, Bash, Vim, SSH, RESTful API, JWT
+- **Programming Languages**: Python, JavaScript, C, HTML, CSS
 
-- 🤝 I’m currently looking for **Junior Backend Engineering and Internship opportunities** to hone my software engineering skills.
+## 🌟 Key Projects
 
-- 📫 You can reach me via [oyedey\@gmail.com](mailto:oyedey@gmail.com)
+### [Cued Web and Mobile Application Backend](https://github.com/oyedeyeye/) - Private
+- **Technologies**: Python Flask, Firestore, Firebase Cloud Functions, AI/ML
+- **Description**: Developed the web backend for a public safety mobile app, incorporating user management, web scraping, data cleaning, geolocation, and AI-driven sensitivity analysis for graphical user insights.
 
-- ⚡ Fun fact 1: ...the only way to justify privilege is by doing hard things...
+### [Sepcam Media Resource Application](https://github.com/oyedeyeye/church-site)
+- **Technologies**: NodeJS, Azure Table, AppService, AWS S3, Route54, CloudFront
+- **Description**: Created cost-effective API services with user authentication utilizing multi-cloud architecture, powering media content availability for faith-based website visitors.
 
-- ⚡ Fun fact 2: ...doing hard things isn't really difficult if only you muster up courage to kickstart...
+### [Emotions Detection & Sensitivity Analysis AI](https://github.com/oyedeyeye/sentiment-analysis-AI)
+- **Technologies**: Python Flask, IBM WatsonAI, Jinja
+- **Description**: Developed and deployed a web application employing IBM Watson AI for real-time advanced emotion detection and sentiment analysis on customer feedback.
 
+## 🏢 Professional Experience
 
-<!-- Social Media Links -->
-<h3 align="left">Connect with me:</h3>
+### Backend & AI Software Engineer | TechSynergy – Tallinn, Estonia (Remote)
+- **Responsibilities**:
+  - Troubleshot and debugged a text/authorship obfuscation neural network PyTorch model.
+  - Architected secure user management solutions, enhancing staff productivity and data security.
+  - Integrated geographic incident visualization, sentiment analysis, and predictive AI models in web applications.
+
+### Field Supervisor/Software Engineer | Platform Innovations Ltd – Enugu, Nigeria
+- **Responsibilities**:
+  - Facilitated onboarding and training sessions for new ICT teachers.
+  - Designed, developed, and assembled autonomous robotic prototypes.
+  - Deployed Coding, AI, and robotics curriculum to public secondary schools.
+
+### Software Engineering Intern | African Leadership X – Nairobi, Kenya (Remote)
+- **Responsibilities**:
+  - Developed scalable backend systems using Python (Flask) and JavaScript (Node.js).
+  - Simplified digital asset tracking with Cloudinary and PostgreSQL.
+  - Configured and maintained Nginx and Linux servers for high system availability.
+
+## 🎓 Education & Certifications
+
+- **Master of Technology** | Land Transport Management | Federal University of Technology Akure, Ondo State
+- **Bachelor of Technology** | Transport Management Technology | Federal University of Technology Akure, Ondo State
+- **Certifications**: 
+  - [ALX Software Engineering Training](https://www.alxafrica.com/)
+  - Developing AI Applications with Python and Flask - IBM via Coursera
+  - JavaScript & Data Structure - FreeCodeCamp
+  - SQL - Solo Learn
+
+## 🌐 Connect with Me
+
+- **Email**: [oyedey@gmail.com](mailto:oyedey@gmail.com)
 <p align="left">
 <a href="https://twitter.com/_oyedeyeye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hezekiah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/Hezekiah-Oyemade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hezekiah Oyemade" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/oyedey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oyedey" height="30" width="40" /></a>
-<a href="https://instagram.com/oyedey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oyedey" height="30" width="40" /></a> -->
 </p>
+
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/Hezekiah-Oyemade)
+- **GitHub**: [GitHub Profile](https://github.com/oyedeyeye)
+
 
 
 <!-- Languages Section -->
@@ -50,3 +87,4 @@ Here are some ideas to get you started:
 
 <!-- GitHub Streak -->
 <p><img align="right" width='400' hieght='500' src="https://github-readme-streak-stats.herokuapp.com?user=oyedeyeye" alt="oyedeyeye" /></p>
+
