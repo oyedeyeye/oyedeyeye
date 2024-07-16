@@ -12,6 +12,9 @@
 - **AI & ML Application**: Proficient in integrating AI/ML models to drive data-driven decision-making and enhance user experiences.
 - **Team Collaboration**: Adept at working cross-functionally with stakeholders to deliver innovative solutions that meet business goals.
 
+## 👀 Looking For
+🎯 I am currently seeking **Junior Backend Engineering opportunities** to advance my software engineering skills and contribute to innovative projects. If you have a position that fits my profile, I would love to connect and explore how I can add value to your team!
+
 ## 🛠️ Expertise
 
 - **Backend Development**: Python, Flask, NodeJS
