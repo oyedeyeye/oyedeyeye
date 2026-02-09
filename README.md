@@ -74,11 +74,6 @@
 <a href="https://linkedin.com/in/Hezekiah-Oyemade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hezekiah Oyemade" height="30" width="40" /></a>
 </p>
 
-<!-- - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/Hezekiah-Oyemade) 
-- **GitHub**: [GitHub Profile](https://github.com/oyedeyeye)-->
-- **Email**: [oyedey@gmail.com](mailto:oyedey@gmail.com)
-
-
 
 <!-- Languages Section -->
 
