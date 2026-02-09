@@ -70,8 +70,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://twitter.com/_oyedeyeye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Hezekiah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Hezekiah-Oyemade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hezekiah Oyemade" height="30" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/hezekiahoyemade?mp_source=share" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="Hezekiah Oyemade" height="30" width="40" /></a>
 </p>
 
 
