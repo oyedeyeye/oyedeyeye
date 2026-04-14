@@ -3,59 +3,64 @@
 
 ## Backend Software Engineer | Cloud Development | AI/ML Enthusiast
 
-🌟 **Dynamic, result-oriented, and innovative** Software Engineering Professional with a passion for leveraging agile methodologies to spearhead the software development life-cycle from concept to completion. I deliver robust, scalable, and secure backend solutions, optimize system efficiency, and drive process improvements.
+🌟 **Dynamic, result-oriented, and innovative** Software Engineering Professional with hands-on experience leveraging agile methodologies to spearhead the software development life-cycle from concept to completion. I deliver scalable, and secure backend solutions, optimize system efficiency, and drive process improvements for companies in growth mode.
 
 ## 🚀 About Me
 
-- **Project Management & DevOps**: Skilled in managing end-to-end project lifecycles and implementing DevOps practices to enhance productivity and collaboration.
-- **Microservices Architecture**: Expert in designing and developing microservices-based applications for seamless scalability and maintainability.
-- **AI & ML Application**: Proficient in integrating AI/ML models to drive data-driven decision-making and enhance user experiences.
-- **Team Collaboration**: Adept at working cross-functionally with stakeholders to deliver innovative solutions that meet business goals.
+- **Backend Engineering**: Specializing in building scalable, secure, and performant server-side solutions using Node.js, TypeScript, and Python (including Flask and FastAPI).
+- **AI & LLM Integration**: Pioneering AI-driven infrastructure by integrating Large Language Models (LLMs), Prompt Engineering, and RAG pipelines into production applications.
+- **Cloud Architecture & DevOps**: Optimizing multi-cloud environments (AWS, Azure), managing robust Linux server infrastructure, and implementing strict security mechanisms including Row Level Security (RLS) and RBAC.
 
 ## 👀 Looking For
-🎯 I am currently seeking **Junior Backend Engineering opportunities** to advance my software engineering skills and contribute to innovative projects. If you have a position that fits my profile, I would love to connect and explore how I can add value to your team!
+🎯 Passionate about ownership, continuous growth, and delivering 10x impact for high-growth digital and financial ecosystems. I am currently open to **Backend Engineering opportunities** where I can contribute to robust architecture and innovative AI automated solutions!
 
 ## 🛠️ Expertise
 
-- **Backend Development**: Python, Flask, NodeJS
-- **Cloud Development**: Azure, AWS, Heroku, Firebase, GCP
-- **Database Management**: SQL, NoSQL, MySQL, MongoDB, PostgreSQL, Redis, Firestore
-- **DevOps & Tools**: Docker, Git, GitHub, NginX, Bash, Vim, SSH, RESTful API, JWT
-- **Programming Languages**: Python, JavaScript, C, HTML, CSS
+- **Backend & APIs**: Node.js, TypeScript, Express, NestJS, Python (Flask, FastAPI), RESTful APIs, GraphQL
+- **Databases & Storage**: PostgreSQL, MySQL, Prisma ORM, MongoDB, Redis, Firestore, Supabase, Pinecone
+- **Cloud & DevOps**: AWS (EC2, Lambda, S3), Azure, Docker, CI/CD pipelines, Nginx, Linux (Ubuntu)
+- **AI & Automation**: LLM Integration (Gemini, ChatGPT, Claude), Prompt Engineering, RAG Pipelines, Make.com, n8n
+- **Security & Architecture**: Row Level Security (RLS), JWT Authentication, RBAC, Microservices Architecture
 
 ## 🌟 Key Projects
 
-### [Cued Web and Mobile Application Backend](https://github.com/oyedeyeye/) - Private
-- **Technologies**: Python Flask, Firestore, Firebase Cloud Functions, AI/ML
-- **Description**: Developed the web backend for a public safety mobile app, incorporating user management, web scraping, data cleaning, geolocation, and AI-driven sensitivity analysis for graphical user insights.
+### [PPMIU Analytics Dashboard](#)
+- **Technologies**: NestJS, Node.js, TypeScript, MySQL, Prisma ORM, React, Redux, Tailwind CSS
+- **Description**: Architected fullstack application for a government department dedicated to tracking and updating projects progress across the state/region. Engineered strict role-based authorization and implemented batch approval transactions.
+
+### [Carteon Payment Infrastructure](#)
+- **Technologies**: Node.js, TypeScript, Paystack API, Security Hardening
+- **Description**: Built backend API and hardened secure payment infrastructure, implementing rate-limited verification, and addressing OWASP vulnerabilities using strict validation guidelines.
+
+### [AI & Automation Pipelines / RAG Chatbots](#)
+- **Technologies**: n8n, LangChain, LLMs, Vector Stores
+- **Description**: Designed advanced n8n workflows for AI-driven resume screening and built a Multi-modal RAG Document Chatbot pipeline to enhance organizational operational efficiency.
 
 ### [Sepcam Media Resource Application](https://github.com/oyedeyeye/church-site)
-- **Technologies**: NodeJS, Azure Table, AppService, AWS S3, Route54, CloudFront
-- **Description**: Created cost-effective API services with user authentication utilizing multi-cloud architecture, powering media content availability for faith-based website visitors.
-
-### [Emotions Detection & Sensitivity Analysis AI](https://github.com/oyedeyeye/sentiment-analysis-AI)
-- **Technologies**: Python Flask, IBM WatsonAI, Jinja
-- **Description**: Developed and deployed a web application employing IBM Watson AI for real-time advanced emotion detection and sentiment analysis on customer feedback.
+- **Technologies**: TypeScript, Prisma ORM, MySQL, AWS (S3, CloudFront), Azure
+- **Description**: Migrated backend infrastructure to robust Typescript/Prisma architecture. Managed multi-cloud API services and caching mechanisms to reduce response times.
 
 ## 🏢 Professional Experience
 
-### Backend & AI Software Engineer | TechSynergy – Tallinn, Estonia (Remote)
-- **Responsibilities**:
-  - Troubleshot and debugged a text/authorship obfuscation neural network PyTorch model.
-  - Architected secure user management solutions, enhancing staff productivity and data security.
-  - Integrated geographic incident visualization, sentiment analysis, and predictive AI models in web applications.
+### Freelance Backend Engineer & AI Automation Specialist | Remote
+*(Mar 2025 – Present)*
+- Architected analytical backends (Node.js/TypeScript) implementing rigorous security strategies.
+- Deployed automated n8n workflows and multi-modal RAG document chatbots to reduce screening times.
+- Orchestrated critical disaster recovery operations to AWS EC2 natively.
 
-### Field Supervisor/Software Engineer | Platform Innovations Ltd – Enugu, Nigeria
-- **Responsibilities**:
-  - Facilitated onboarding and training sessions for new ICT teachers.
-  - Designed, developed, and assembled autonomous robotic prototypes.
-  - Deployed Coding, AI, and robotics curriculum to public secondary schools.
+### Backend Software Engineer | TechSynergy – Tallinn, Estonia (Remote)
+*(Mar 2024 – Mar 2025)*
+- Engineered an AI-driven job recommender API using Python, AWS Lambda, and intelligent prompt engineering.
+- Optimized text-obfuscation machine learning models to improve reliability and operational uptime.
 
 ### Software Engineering Intern | African Leadership X – Nairobi, Kenya (Remote)
-- **Responsibilities**:
-  - Developed scalable backend systems using Python (Flask) and JavaScript (Node.js).
-  - Simplified digital asset tracking with Cloudinary and PostgreSQL.
-  - Configured and maintained Nginx and Linux servers for high system availability.
+*(May 2022 – Oct 2023)*
+- Developed maintainable server-side applications on Azure serving high-volume downloadable media.
+- Built a role-based image management application using Node.js, PostgreSQL, and Cloudinary.
+
+### Webmaster & IT Administrator | FUTAJEET Journal, FUTA – Ondo, Nigeria
+*(Sep 2018 – Dec 2022)*
+- Administered database parameters to manage tracking of 300+ academic articles through a peer-review workflow.
 
 ## 🎓 Education & Certifications
 
