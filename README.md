@@ -88,5 +88,5 @@
 <p><img width='400' hieght='500' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyedeyeye&show_icons=true&locale=en&layout=compact" alt="oyedeyeye" /></p>
 
 <!-- GitHub Streak -->
-<p><img align="right" width='400' hieght='500' src="https://github-readme-streak-stats.herokuapp.com?user=oyedeyeye" alt="oyedeyeye" /></p>
+<p><img align="center" width='400' hieght='500' src="https://github-readme-streak-stats.herokuapp.com?user=oyedeyeye" alt="oyedeyeye" /></p>
 
